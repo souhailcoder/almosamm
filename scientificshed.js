@@ -169,38 +169,45 @@ function myFunction() {
 <iframe id="hidden_iframe" name="hidden_iframe" onload="if(submitted){);}" style="display: none;"></iframe>
             </b:if>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScsHgJQp5AoWLLUwV43JU8FcuhcHaUwrtJs96N1rkXE3gRvEQ/formResponse" id="ss-form" method="POST" onsubmit="fadeEffect.init('fade', 1);document.getElementById('fade').style.display = 'block'" target="hidden_iframe">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfxTI45ZXptyA19frKvKQL1ETfdgRkXZVJZ0wnaf7tWw5tGDw/formResponse" id="ss-form" method="POST" onsubmit="fadeEffect.init('fade', 1);document.getElementById('fade').style.display = 'block'" target="hidden_iframe">
 <div class="styled-input">
 <div class="styled-input-in">
-<input aria-label="الاسم" dir="auto" id="i.desc.2057536982" name="entry.584766817" required="required" title="" type="text" value="" />
+<input aria-label="الاسم" dir="auto" id="i.desc.2078104957" name="entry.1230635533" required="required" title="" type="text" value="" />
                                 <label> : (*)  الاسم </label>
                                 <span class="span1"></span><span class="span2"></span>
             </div>
 </div>
-    <div class="styled-input">
+<div class="styled-input">
 <div class="styled-input-in">
-<input aria-label="رقم الهاتف" dir="auto" id="i.desc.308485333" name="entry.580358888" title="" type="text" value=""  required="required"/>
-                                <label>: (*)  رقم الهاتف</label>
+<input aria-label="البريد الإلكتروني" dir="auto" id="i.desc.1500845533" name="entry.339992267" required="required" title="من فضلك أدخل بريد إلكتروني صحيح" type="email" value="" />
+                                <label> : (*)  البريد الإلكتروني</label>
                                 <span class="span1"></span><span class="span2"></span>
             </div>
 </div>
     <div class="styled-input">
 <div class="styled-input-in">
-<input aria-label="أعد رقم الهاتف" dir="auto" id="i.desc.2119166068" name="entry.1247377482" title="" type="text" value=""  required="required"/>
-                                <label>: (*)   أعد رقم الهاتف</label>
+<input aria-label="الدولة" dir="auto" id="i.desc.1578546177" name="entry.874462343" title="" type="text" value=""  required="required"/>
+                                <label>: (*)  الدولة</label>
+                                <span class="span1"></span><span class="span2"></span>
+            </div>
+</div>
+    <div class="styled-input">
+<div class="styled-input-in">
+<input aria-label="عنوان الرسالة" dir="auto" id="i.desc.1692910035" name="entry.1858745636" required="required" title="" type="text" value="" />
+                                <label> : (*)  عنوان الرسالة</label>
                                 <span class="span1"></span><span class="span2"></span>
             </div>
 </div>
 <div class="styled-input wide">
 <div class="styled-input-in">
-<textarea aria-label="معلومات اضافية" aria-required="true" cols="0" dir="auto"  id="i.desc.708546397" name="entry.2127329432" required="required" rows="8"></textarea>
-                                <label> : (*)  معلومات اضافية</label>
+<textarea aria-label="رسالتك أو استفسارك" aria-required="true" cols="0" dir="auto"  id="i.desc.1374678256" name="entry.1207818427" required="required" rows="8"></textarea>
+                                <label> : (*)  رسالتك</label>
                                 <span class="span1"></span><span class="span2"></span>
             </div>
 </div>
-<input name="draftResponse" type="hidden" value="[null,null,"-1242493422604886553"]" />
+<input name="draftResponse" type="hidden" value="[null,null,"-597224231344312906"]" />
                     <input name="pageHistory" type="hidden" value="0" />
-                    <input name="fbzx" type="hidden" value="-1242493422604886553" />
+                    <input name="fbzx" type="hidden" value="-597224231344312906" />
           <button class="btn btn-default" name="submit" type="submit">إرسال</button>
           </form>
 <div id="fade">
